@@ -17,7 +17,8 @@ The analysis was performed using **Python, SQL, and Power BI** to transform raw 
 ## Dataset
 
 The dataset contains approximately **541,000 e-commerce transaction records** from **December 2010 to December 2011**.
-source:E-Commerce Data — Kaggle
+
+Source:[E-Commerce Data — Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data?utm_source=chatgpt.com)
 
 Key columns include:
 
