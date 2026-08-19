@@ -98,6 +98,9 @@ A Power BI dashboard was created to visualize:
 * Customer purchasing behavior
 * High-value and at-risk customers
 
+  <img width="1308" height="798" alt="Customer_segment_dashboard_screenshot" src="https://github.com/user-attachments/assets/7bbba907-b92d-4f26-a4ca-010f2116afe1" />
+
+
 ## Key Business Recommendations
 
 * Reward **High Value customers** with loyalty programs and exclusive offers.
